@@ -1,0 +1,3 @@
+kullandığımız kaynaklar
+https://student.cs.uwaterloo.ca/~isg/res/mips/opcodes
+https://www.dcc.fc.up.pt/~ricroc/aulas/1920/ac/apontamentos/P04_encoding_mips_instructions.pdf
